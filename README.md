@@ -1,2 +1,2 @@
 # CModernMethod2
-practice for C
+practice for C test
